@@ -4,8 +4,7 @@
 <h1 align="center">"Hello world!" 👋🏻<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="48px">, I'm Kusum</h1>
 <h3 align="center">A Newbie, trying everything that comes my way!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusumpriya19&color=red
-" alt="kusumpriya19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusumpriya19&color=red" alt="kusumpriya19" /> </p>
 
 - 🌱 I’m currently learning **Web development , DSA , ML**
 
